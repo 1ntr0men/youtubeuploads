@@ -1,0 +1,163 @@
+1.Макс Ващенко, UCqtzZMiZ5Bng7HCxI6154gg, Zabj5uMJIyY, 134
+2.itpedia, UC6bTF68IAV1okfRfwXIP1Cg, YLTFHGIedP8, 11
+3.Юлик, UC6S1hSjVMFbB9WKv-qZKwuw, r_pKoWYap2U, 12
+4.oblomoff, UC5hcH25pD-rgIlQvzErgE7A, IPQDG3cssRE, 13
+5.Нежный редактор, UCByhZ-JEe5OOZSuq0uaXOng, wb1v60kBA88, 14
+6.Кузьма, UC9oLBiosH8I3muPxumGEVIg, 8Nl55qIqGmg, 15
+7.EdisonPts, UCrpt82vHWIWZSHtNQxncPrg, ugJVts2mpJA, 210
+8.Oblomoff-stuff, UCI-vs_XT8MztGQw8uuYQVSg, zTxD9zi7CnE, 17
+9.Юрий Хованский, UCnQBjLBbZ6TXMwM_D_iaXjQ, YHRcN0G4g-U, 19
+10.Anton Vlasov, UCb6mvPVS9hxJESNROQTnV4Q, 6yDTUyqBOP0, 20
+11.КЛИККЛАК, UC5sSL56GJWCi4wsMpobTrAw, HDgchLu3x2w, 21
+12.Marmok, UCf31Gf5nCU8J6eUlr7QSU0w, vkddnF0f0xk, 22
+13.MORGENSHTERN, UCWnqnojAgMdN0fQpr_xByJw, -7n4t0cbVD4, 23
+14.Wylsacom, UCt7sv-NKh44rHAEb-qCCxvA, 3oW9o-Sl1aI, 24
+15.ПРИЯТНЫЙ ИЛЬДАР , UCXEsHh2duNWSsX6K9WbmfIg, KFhhqR6VDdA, 25
+16.ЮТУБЕР , UCtqBQxhyU3610ZRYSibOhOw, ui-z3kgQcbw, 26
+17.MrLololoshka (Роман Фильченков), UCAvrIl6ltV8MdJo3mV4Nl4Q, 2_7pw9sf06g, 29
+18.вДудь, UCMCgOm8GZkHp8zJ6l7_hIuA, PWt27h_scaY, 30
+19.ДНЕВНИК ЕВРЕЯ, UCm29gqzns2F1QGk8sv30Zpg, NhoWZk4fUh4, 31
+20.Игорь Линк, UCptRK95GEDXvJGOQIFg50fg, sUjsdGENZbA, 32
+21.Стинт, UCXMTSawP2E1YcQGmMIw9WoQ, Bo104payoWg, 33
+22.Utopia Show, UC8M5YVWQan_3Elm-URehz9w, kfugSz3m_zA, 34
+23.Алексей Шевцов, UCM7-8EfoIv0T9cCI4FhHbKQ, ZzerSXTRP9o, 36
+24.Сыендук, UC-b89a0Fw6pNoP-g-_qLeiw, 64XqHG_N9yQ, 37
+25.ГАБАР , UCTUjwDljDdBVAVpJ6H3B7zw, JFX-k0jiu4g, 41
+26.CMH, UCrjJjF6n6Ne7Qx04095hZLw, xdEop8b4AA4, 43
+27.ДНЕВНИК ХАЧА, UCnbxcA3kZ_uUYIBHNvxpDQw, o_JTvg-zMKg, 47
+28.МедиаЛузер, UCA9cLvLGGYdH83OJ7qPt19Q, APqbEGTyMGw, 53
+29.ZAKATOON, UCNVy3JfDYZ8jgsipemTMiGA, shIaVfmhLKo, 54
+30.Ай Как Просто!, UC1qWaT8_iPHSBYgB4T2ltuA, 4ocLEwwRie8, 55
+31.ILYA STREKAL, UCgQ1CeGtjCbkvslmG3zTAFA, Sb9eUmtyBag, 56
+32.SOBOLEV, UCNb2BkmQu3IfQVcaPExHkvQ, Wom4OV5nLKA, 57
+33.GERASEV, UCr5o-O2LPyxVb08MDjI53-Q, yA97cDD-HNU, 59
+34.SlivkiShow, UCU_yU4xGT9hrVFo6euH8LLw, LwRnC8r7WSE, 60
+35.Dumbazz, UC64Dw03B-EgwrNERMOy1u5w, jVCFLm_Ab3s, 61
+36.ВПИСКА, UCj7bSQWlq2O4lhGxGll5SUA, BbcnkGOBdyw, 62
+37.BadComedian, UC6cqazSR6CnVMClY0bJI0Lg, 0OmC1HcTGBc, 63
+38.SUBO, UC14mYP6eHJ2HlB0w3V4iEDw, O19Ty2ixsqs, 68
+39.ЛИТВИН, UCy6p8krDY33mDRMt19YrlXg, K7taQQvg5k8, 69
+40.A4, UC2tsySbe9TNrI-xh2lximHA, JsKFe_l20Gc, 70
+41.German *El Classico*, UCOJRJqAaearydfTvGKriCPQ, QOl0Qv9dl5c, 71
+42.Дима Гордей, UC-Osiqly2kWjXcB6ElD2iCQ, gO6XM-hjbsw, 72
+43.FROST, UC9diVCDUnRAB3buT1vLn4-w, UUa_3-WipSo, 73
+44.Руслан Усачев, UCDaIW2zPRWhzQ9Hj7a0QP1w, yH__et2tTB8, 74
+45.Bulkin, UCtWY35eYO7jI9LnCRJxBGRQ, Ro8MbEgCo-0, 75
+46.Brawl Stars MMA, UCtNX4bdqJqsaCyJMJvzq-Fw, 9IbzbBFqxnY, 76
+48.Аид [VyacheslavOO], UCPX53dr-NSKoXspKmXanbCw, Lf2PPjHBX4I, 78
+49.Holdik, UCM6hH7Xa0oanOQeh5RxeRAQ, kDCQkoVINNU, 79
+50.Дима Масленников, UCwipTluVS2mjuhPtx2WU7eQ, XXLJ9vTP9JM, 80
+51.Coffi Channel, UCpDzpaUTbIkdjkCZ9pmfMrA, vNObMVh3cFA, 81
+52.Найс, UC8oyGrNFM1tHLux1gyDw9zg, YRLqJKmpOZw, 84
+53.CHEBU, UC6NvC7ECZaaI84TKBS_MaOg, n_ilR5Iyf6Q, 85
+54.MsAnastasiz, UCJm9mc6RBNUkHy429BK9pUg, OoAlFsJqqWA, 100
+55.TheBrianMaps, UCyJrhZm9KXrzRub3-wD2zWg, KmggvgOhT0I, 107
+56.Nikita Morozov, UCK_QhctjNjlLIpb7ipDW4UA, r6YPg6jb5Ps, 109
+57.Vlad1000RR, UCnqF9YVsFsnP0UE3opZ8zgw, xFy-riX1IFo, 111
+58.Room Factory, UCovLyuOCfHLOPP8Jwc3aZoA, kG9Y9V1R3ZY, 112
+59.ИЛЬДАР АВТО-ПОДБОР, UCG4yz4wtp2E5S62L06yqC9w, VCtW96_QgsI, 113
+60.Galich Ida, UCBELlne6XFSBbYaSTDbCvvA, 43j2cJQcRRE, 114
+61.Виталий Орехов, UCRkQ5F-b2qU2rYE7-GfGkOA, SG8biFPgB3c, 115
+62.Арина Данилова, UCrnVbCC1rv4IQroBwaCfImA, CSQ-6czmMLc, 116
+63.JOHAN, UCuQsXgtPrppIkSE7GWjp7HA, XvTTELnQsM0, 117
+64.SuperCrastan, UCXFxgPppcehs2LoiKhkakQg, C6hCT2XevQ0, 118
+65.Ксения Собчак, UCvQXaJTjA3jRucTKN4CGiwg, QTnIjlEpW8k, 119
+66.Karina Arakelyan, UCfC2j7U61CLa-6kQFcb2mGg, 4ppCVUJu6mA, 130
+67.Данила Поперечный, UCR-Hcwi27-Ee6VnGzmxE1pA, s3dhh6fcso0, 138
+68.Justie, UCvl_OyT5eUT-JkaHEqTLcXQ, Se1YQj9x8jQ, 151
+69.Fenya, UCkW08S8kLAhrmV1nRtA77Wg, 8uFhJBpHsns, 141
+70.TheWarpath, UCR8qqzjkpbCdY4yx8axvHYA, -QnQeXUKpoo, 142
+71.Поззи, UCuZeiI5pdpgqDojXZujoYgg, C_ih7oqX0ds, 143
+72.ExileShow, UC6JRrn_7Qe1CZBcQDMieadw, CLYTvznWoqM, 144
+73.ZERNOVKA, UC0-GBwR01nqwiyNn4-gM6kQ, XACBr99a3jI, 145
+74.karrambaby, UCGrzKEXqpIX-SCStZs77o-A, Sb_4WBg7g7c, 146
+75.Данкар, UCcvSMLuj0OcAASPsTyVlzBA, pfXCwPOnEhE, 147
+76.windy31, UCZUrS0zDszsXI_5ir_tI3cg, TDJmuynF1nk, 150
+77.GetFuckShow, UCH7vazfQkjRfpCa7ShQH7lQ, RtIYLzolEwU, 152
+78.МЯЧ Production, UC0UJu6SxrBnALkR-BZPHYRg, 1iGDddKNLjw, 153
+79.Ridddle, UCNfxB3nWgDIpkItC6KSqKsw, w3coJGWoxf8, 157
+80.Макс Брандт, UCxF6ylvxiQV5m-7Rawr3W7g, v5eNDtb5_7s, 158
+81.GopherVid, UCeHB-V2gQRjjBUg6PUdsnqg, XMzXyoU-CLQ, 161
+82.KREOSAN, UCUllb83Lugbka-rvF6Nutxg, WA92oKYvspo, 163
+83.Senex, UCujxAmkfmeaYPZ35F47yX2Q, zqgzIGxG2ww, 164
+84.LizzzTV, UC65l6SJeOEE8ROy4BbHYTlw, vrjEUqp_IRQ, 165
+85.Ruha, UCkaVP4nrYPlie1-VInSgjqQ, BUGrI31wf7c, 167
+86.PANDAFX, UCg-hPMTOOFqGRjYg8tSXGiA, htAkZFBmOrI, 168
+87.ИККЕРО, UCK8o7PWlBPbzhajib_P7FKg, kaUdLeQNwFw, 170
+88.Гараж 54, UCBByzLy3MGJT8UMVLYLScNg, fjyhKwFCFjM, 171
+89.Алёна Венум, UCdz8GhVazLFJCBS1JgzHAyQ, ArmRkRVWG6Y, 173
+90.ПУШКА, UCD3cxCSDwsNVrOfHHpcqwQA, Losac4URGGk, 174
+91.Alex Boyko, UCKj4BooYGVlBTXW21nOwcgQ, NWp1omN9Lg0, 175
+92.Игорь Войтенко, UC7DFMwmTVwwSO2E5vs2GgQw, _23zTfzKfng, 176
+93.TRUE GYM, UCkrbi2bmw7DQuuC8k4TP-QA, IFs3KS1XQMA, 177
+94.АРТЁМ ТАРАСОВ ПЕРЕЗАГРУЗКА, UCxZl99knAEyFj4QFDnTBd6Q, CEaNqY_SqdI, 178
+95.versusbattleru, UCHeLSUsUm_i036m2cBDz-vg, dgPB6PKmGmA, 179
+96.Daria Jay, UCLas4sJOMCozPKjHoTY0Wzw, Q6khMckkxZE, 180
+97.AcademeG, UC0lT9K8Wfuc1KPqm6YjRf1A, 182t0twlzqE, 181
+98.Хочу ПожратьTV, UC56uVSageOw3fvFH-H2SiZg, 9tnyDOzdI4E, 186
+99.Добрые походы, UCosTqcZ1ChfDSDNjs1NCa0g, GBCP2Rb2wrI, 187
+100.Всё из за Метало Копа, UCBpeYNfLtLMuxBYeQTeeuog, dZ5_DdRbCas, 188
+101.ДОМ В ДЕРЕВНЕ, UCNdW2UCjmbE97i-ys4hjOaA, OHo94d5cbZo, 189
+102.Пушка Гараж, UCWXN0I4TuQrPXPtEoye4VZA, Y9r0ZlQvmuU, 191
+103.Трансформатор, UCeNpzcxM-hUhnabwC7oZeYw, XBGfWU5bJwM, 192
+104.LABELCOM, UCNqktdxgAADBj36dC7VGOgg, j8IasQyLsM8, 198
+105.Ошуительное Хоу, UCSoYSTOt1g_Vdo8xCJeQpHw, qEku8w6-dO0, 1
+106.ПУШЕР, UCv7Zff-RjwiRPlvn8g5fMog, wOx5FSLcCrg, 200
+107.Twitch WTF, UCfF9HP-i1RTft__ATDve4Fg, M_gjvEuLy5Y, 201
+108.ЗЛОЙ COUB'ер, UCBJ8lINWy72UTid23846n_A, M4SX8B5GIPM, 202
+109.ДВОРЕЦКОВ, UCtpHb10VO0Zdd92lH7Md8jw, nuUkYXuFIGU, 203
+110.Паша Пэл, UCF0yfUFQlNS67JpGIh_9ApA, -HO3Y-_tSig, 204
+111.DONNY, UCCuD5HzSuyd9H7WVaghygoQ, aId0Y_HAZIM, 207
+112.Жекич Дубровский, UC9XJvt8OT-9_8QHDBdqocaw, Siqrw5zUyfI, 208
+113.Ric, UCjzhzbnwYid8BXOYfXfspKw, i1aD6gi9glk, 209
+114.Katya Adushkina, UCA0Xum6Bxx-rhmrog1A1ISQ, -TR-KdF2eso, 16
+115.ZidDer, UCvaPT8-TDufQJjNQTw1mmHg, IZOpZKueDy0, 211
+116.Manifest Сhannel, UCFvr5qtcq0xu_rwejp-ME8g, YhIe_koNiBQ, 212
+117.ВЛАДУС, UCPG6OP7eL7kLuyFpQMdqYSA, -AqLoVDF1jA, 213
+118.Filipin is bro, UCp07Dwx0hHg3tM1Is8kQy4Q, 7sEiMcHGRzY, 214
+119.SilverName HearthStone - официальный канал, UCqQrewSyOB-64dnwnL3FuCQ, hRGXjM5JeNU, 215
+120.Чердак, UCWG86L4tau8SZ4jRqiVco5g, ndpGuvDDhSM, 216
+121.Tresh, UCIkRFJFYc-7xkmm8CTL2nLA, KiOA8LwpujA, 217
+122.Tresh - Minecraft, UC8V_Nva4QIlq1DKbNaQApvg, E_JGlAo3UC8, 219
+123.Димас из Батайска, UCCeQbb6qvRTPhZ-kfSxh0Dg, IE7BLpbyixE, 220
+124.ШАРФ, UCb-Xo1DgpY1YhdgXg8rvjVA, 1W65L6DgS58, 221
+125.ЮТУБ ХАЙП, UCaeP74bxTtm1X2IPD43c3MQ, AqwMh3UcJDA, 222
+126.Дарья Каплан, UCZ0Q4R23EaBwaLPQRy-o5Bg, zZ2tyRMRHEg, 223
+127.ShadowPriestok - Евгений Чернявский, UC-ZROtSKHGERKmfuYL0AryQ, IeW6WAq5H90, 224
+128.Познаватель, UCXTMoE1XgvxN4iCt5-gZzCw, HtHhal1uckM, 225
+129.808, UCRP4EhX1Op-jL7D87PB3qhQ, iA4EIfLBAt8, 226
+130.LaLYoU, UCCNjmklB30AyRqEIhZBNJCg, x9WICciwhZk, 227
+131.Gaming with LINE, UCGbwlbRGgOZQwGiDr-cxEzQ, -QFm86HBRCk, 228
+132.Вечер 3х3, UCS5Ft3-kdMrM-1dRif8VtrQ, vnK6hj8gDtM, 229
+133.Настя Ивлеева, UCtGJ_XI0ZGwEmKZaj3VQITw, pubTqLEyHks, 230
+134.Секреты, UC4IggRUg8ag6czs0grQ6lqQ, 2KP-HZiii-s, 231
+135.ЧЁ КАВО, UCegbn_C_Eb-iKxN065xVlHg, Rzt4ktPLb_8, 232
+136.ДЖАВИД, UCe9pVmC9VWLON835WSevAiQ, PnfFCeBpoow, 233
+137.Антон Птушкин, UClI9aidW3X044NeB4QS-yxw, SgbepXDbt0A, 234
+138.AuRuM TV, UCh1lXfVnw2L4w8aBHrTy4zA, BN1yv_3AI24, 236
+139.2DROTS, UCOIRN19VunfPaW7ZfmOKeoQ, czTXW5NfEYI, 237
+140.James Banana, UCSaAS3ELsC1BVUuUR3DE01Q, Yg0NEA6HnPs, 238
+141.REDDER, UClkJx2v_71xq2bPTUaloNEg, XBkV8rWcuKw, 241
+142.TheBrainDit, UCFBcrywVNeUOqtJgGhPEvQg, -fxlEJgoD7o, 65
+143.Den Schmalz, UCgDmRHgSW6wG9Je-woYBCDQ, irLltZ6SZGY, 67
+144.SHIMOROSHOW, UCOynRdpGiTCNFhCgD0RTe1w, I1WGu3yM4KQ, 82
+145.BOMBER SHOW, UCoeD-36OhnnV6OPAfBBd7jQ, uVk_2sA2qek, 40
+146.CJIюHи, UCMM2GtjB3dIYehLd3veGKQQ, wynMoQQhzKA, 242
+147.Andro-news.com, UCL0tSwuCfEQi6EFSUJd83VQ, emdPBAQ9-2o, 244
+148.Bager Takers, UCM8EMN88yBT5rU2Wp9nFy_w, 7crE3oibbRc, 245
+149.Demaster, UCvfNirFbGeijfIWG88TMb_g, doPUhfGsNp0, 246
+150.А поговорить?, UCp2J7GRxQ36QLqW4ReLLt5g, dL6cbDWeMLY, 247
+151.Бустер, UCve3ohcLCBO5uFoQcFGZMPQ, E6iF8qCJN50, 251
+152.AkStar, UC5aNdQmTYqlSxJHS9Ld0pBw, AqjrNi2YFWU, 252
+153.Evelone, UC2s19pAG-YY1bNfi4p5jafA, hJ1BbvhmIOA, 253
+154.varlamov, UC101o-vQ2iOj9vr00JUlyKw, OKtgwWdZ44g, 255
+155.The Люди, UCwPzq5yQwczLmivBX8zq7Mw, yPBln-iayss, 256
+156.Редакция, UC1eFXmJNkjITxPFWTy6RsWg, OxktAOsAPkA, 257
+157.КраСава, UCoRAnB8KixJiszlSpMHa-SA, -ivm9X4nF9M, 258
+158.iKakProsto2, UCQWeDEwQruA_CcyR08bIE9g, Ch2ehP0MqIQ, 261
+159.СТАС, UCGBFIBxDuaEmrL5CxXSxx6g, s5xAXIGALkQ, 262
+160.AlexGyver, UCgtAOyEQdAyjvm9ATCi_Aig, A8GDQ08Jdyk, 263
+161.Принц Петербургский, UCoPAAPkUpAQJTul8KFWBaRg, 43dyWzGwEC4, 264
+162.ТО "Gazgolder", UCthfjHehYgSyhf8ONjzJMUw, CptKJqYXEmY, 266
+163.Чикен Карри, UCn9bv143ECsDMw-kJCNN7QA, mZ2o_7YdbXY, 267
+164.Buster Rofls, UCDqlBCW2D1CD8m49YDoEv4g, jvDu9z-sI6Y, 268
