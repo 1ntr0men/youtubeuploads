@@ -29,7 +29,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.advert_Send">
+  <component name="RunManager" selected="Python.videoPM_v3">
     <configuration name="advert_Send" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_v1.2S" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="conn_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Server Versions/main Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server Versions/main Server/main_v1.2S.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video_bot/conn_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_v1.3S" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="videoPM_v2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_v1.3S.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoPM_v2_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="videoPM_v2.3S (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="videoPM_v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Server Versions/SIPM Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.3S.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video_bot/videoPM_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,41 +114,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="videoPM_v2.4S" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Server Versions/SIPM Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.4S.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Video_bot/test_conn_db.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.advert_Send" />
-      <item itemvalue="Python.main_v1.2S" />
-      <item itemvalue="Python.main_v1.3S" />
-      <item itemvalue="Python.videoPM_v2.3S (1)" />
-      <item itemvalue="Python.videoPM_v2.4S" />
+      <item itemvalue="Python.conn_bot" />
+      <item itemvalue="Python.videoPM_v2_1" />
+      <item itemvalue="Python.videoPM_v3" />
+      <item itemvalue="Python tests.pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.videoPM_v3" />
+        <item itemvalue="Python.conn_bot" />
+        <item itemvalue="Python.videoPM_v2_1" />
+        <item itemvalue="Python tests.pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" />
         <item itemvalue="Python.advert_Send" />
-        <item itemvalue="Python.main_v1.3S" />
-        <item itemvalue="Python.videoPM_v2.3S (1)" />
-        <item itemvalue="Python.videoPM_v2.4S" />
-        <item itemvalue="Python.main_v1.2S" />
       </list>
     </recent_temporary>
   </component>
@@ -179,22 +174,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="204" key="GridCell.Tab.0.bottom" timestamp="1600947343505">
+    <state x="531" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600973860277">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="204" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600947343505" />
-    <state width="1515" height="204" key="GridCell.Tab.0.center" timestamp="1600947343505">
+    <state x="531" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1600973860277" />
+    <state width="1515" height="137" key="GridCell.Tab.0.bottom" timestamp="1601205087138">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="204" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600947343505" />
-    <state width="1515" height="204" key="GridCell.Tab.0.left" timestamp="1600947343504">
+    <state width="1515" height="137" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601205087138" />
+    <state width="1515" height="137" key="GridCell.Tab.0.center" timestamp="1601205087137">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="204" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600947343504" />
-    <state width="1515" height="204" key="GridCell.Tab.0.right" timestamp="1600947343505">
+    <state width="1515" height="137" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
+    <state width="1515" height="137" key="GridCell.Tab.0.left" timestamp="1601205087137">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="204" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600947343505" />
+    <state width="1515" height="137" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
+    <state width="1515" height="137" key="GridCell.Tab.0.right" timestamp="1601205087137">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="137" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1600367275635">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
