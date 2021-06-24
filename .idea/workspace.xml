@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db843e98-67c3-497a-9b00-1b1498add6dd" name="Default Changelist" comment="" />
+    <list default="true" id="db843e98-67c3-497a-9b00-1b1498add6dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoPoster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoPoster.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Versions/Send PM/Send_video_in_PM_v1.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Versions/Send PM/Send_video_in_PM_v2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_channel.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_poster/New_channel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/SIPM_Server_Version_v1.0S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/SIPM_Server_Version_v1.1S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/Send_video_in_PM_v2.0S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/limit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.1S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.2S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.3S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.4S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/main Server/channels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server Versions/main Server/main_v1.2S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advert_Send.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/advert_Send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_v1.3S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoPM_v2_1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,13 +70,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.videoPM_v3">
-    <configuration name="advert_Send" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\intromen\Documents\Python projects\youtubeuploads\auto_poster" />
+      <recent name="C:\Users\intromen\Documents\Python projects\youtubeuploads\features" />
+      <recent name="C:\Users\intromen\Documents\Projects\youtubeuploads" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AutoPoster">
+    <configuration name="1234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advert_Send.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1234.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conn_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="AutoPoster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_poster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video_bot/conn_bot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_poster/AutoPoster.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="videoPM_v2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dropbox test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +139,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoPM_v2_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\intromen\Documents\Projects\AutoPoster\dropbox test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_v1.3S" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPoster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_v1.3S.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,36 +190,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="AutoPoster" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video_bot" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Video_bot/test_conn_db.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.advert_Send" />
-      <item itemvalue="Python.conn_bot" />
-      <item itemvalue="Python.videoPM_v2_1" />
+      <item itemvalue="Python.1234" />
+      <item itemvalue="Python.dropbox test" />
+      <item itemvalue="Python.main_v1.3S" />
       <item itemvalue="Python.videoPM_v3" />
-      <item itemvalue="Python tests.pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" />
+      <item itemvalue="Python.AutoPoster" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AutoPoster" />
+        <item itemvalue="Python.main_v1.3S" />
         <item itemvalue="Python.videoPM_v3" />
-        <item itemvalue="Python.conn_bot" />
-        <item itemvalue="Python.videoPM_v2_1" />
-        <item itemvalue="Python tests.pytest in C:/Users/intromen/Documents/Projects/youtubeuploads/Video_bot/test_conn_db.py" />
-        <item itemvalue="Python.advert_Send" />
+        <item itemvalue="Python.dropbox test" />
+        <item itemvalue="Python.1234" />
       </list>
     </recent_temporary>
   </component>
@@ -173,31 +233,28 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/youtubeuploads" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600973860277">
+    <state width="1515" height="291" key="GridCell.Tab.0.bottom" timestamp="1624516718599">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="531" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1600973860277" />
-    <state width="1515" height="137" key="GridCell.Tab.0.bottom" timestamp="1601205087138">
+    <state width="1515" height="291" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
+    <state width="1515" height="291" key="GridCell.Tab.0.center" timestamp="1624516718599">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="137" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601205087138" />
-    <state width="1515" height="137" key="GridCell.Tab.0.center" timestamp="1601205087137">
+    <state width="1515" height="291" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
+    <state width="1515" height="291" key="GridCell.Tab.0.left" timestamp="1624516718599">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="137" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
-    <state width="1515" height="137" key="GridCell.Tab.0.left" timestamp="1601205087137">
+    <state width="1515" height="291" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
+    <state width="1515" height="291" key="GridCell.Tab.0.right" timestamp="1624516718599">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="137" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
-    <state width="1515" height="137" key="GridCell.Tab.0.right" timestamp="1601205087137">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1515" height="137" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601205087137" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1600367275635">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600367275635" />
+    <state width="1515" height="291" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
   </component>
   <component name="masterDetails">
     <states>

@@ -18,7 +18,7 @@ def re():
     for i in range(l()):
         line = fin.readline().split(", ")
         if list(line[0])[0] != "#":
-            channels[line[0][list(line[0]).index(".") + 1::]] = [line[1], line[2], line[3].rstrip()]
+            channels[line[0][list(line[0]).index("..") + 1::]] = [line[1], line[2], line[3].rstrip()]
     fin.close()
 
 
@@ -44,7 +44,7 @@ def wr():
 
 
 def copy():
-    r = open("reserve.txt", "w", encoding="utf-8")
+    r = open("../reserve.txt", "w", encoding="utf-8")
     c = open("channels.txt", "r", encoding="utf-8")
     for i in range(l()):
         z = c.readline()
