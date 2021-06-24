@@ -4,17 +4,16 @@ import os
 import feedparser
 import youtube_dl
 
-user_token_starui = "3edd95bd76f97fe72d795a5ccb63e510a3dee144a1ce8d74d33941e4cdda64008ab49636f817e30cb3b3f"  # Хирошима
-user_token_ak = "f42192a74ce719b76b79971f6905be446373022406ee0544797fa52d5fe094b09d2390ddf58b4b3c2b5d1"  # Акакий
-user_token_intromen = "ab983c74fb9103daac4df335621a41a824014322a828ed3a7229e6f3366180b67aeab33fe9b88edda4395"
-user_token = "ce9b9828b611e1993be1cb4e37383cb4d52c2bf250947661fecb530780d318f92038ce6fccc73bee4db47"
+# вк токен
+user_token = "7dfdaca38535fb478ca767980d6987b38a084f3d18e83bad6bb4509f8d9b42612b4493be83b83c45e3c79"
 
-
+# создание словаря
 channels = {}
 
 print("Поехали")
 print()
 
+# реклама в описании
 advertising = ""
 
 
@@ -47,6 +46,7 @@ def wr():
     fout.close()
 
 
+# функция выгрузки в вк
 def upload(name_vk, path, album_id):
     params = (
         ("name", name_vk),
@@ -66,34 +66,44 @@ def upload(name_vk, path, album_id):
     return id_vk, name_vk
 
 
+# загрузка и выгрузка в вк кидео
 def auto_poster(url, author, album_id, quiet=True):
     print(url)
-    ydl_opts = {}
-    ydl_opts['outtmpl'] = "D:\\AutoPoster\\video\\%(title)s.%(ext)s"
-    ydl_opts['quiet'] = quiet
-    ydl_opts['merge_output_format'] = 'mp4'
+    ydl_opts = {
+        'outtmpl': "C:\\Users\\intromen\\Documents\\Projects\\youtubeuploads\\Video_bot\\video\\%(title)s.%(ext)s",
+        'quiet': quiet,
+        'merge_output_format': 'mp4'}
 
+    # загрузка
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
         result = ydl.extract_info(url, download=False)
         outfile = ydl.prepare_filename(result)
 
+    # выгрузка в вк
     path = outfile
-    id_vk, name_vk = upload("{" + author + "} " + "".join(list(path)[20:len(path) - 4]), path, album_id)
+    id_vk, name_vk = upload("{" + author + "} " + "".join(list(path)[68:len(path) - 4]), path, album_id)
     os.remove(path)
     return id_vk, name_vk
 
 
+# чтение файла channels
 re()
+
+# запуск цикла
 while True:
     for j, i in channels.items():
         # print(i, j)
+        # получение RSS канала и взятие оттуда id последнего видео
         ChannelFeed = feedparser.parse("https://www.youtube.com/feeds/videos.xml?channel_id=" + i[0])
         last_video = ChannelFeed.entries[0]
         video_id = last_video.yt_videoid
+        # проверка что видео не равно последнему видео записанному в файл
         if video_id != i[1]:
             print("Вышло видео у", last_video.author)
+            # изменение последнего видео в файле
             channels[j][1] = video_id
+            # сохранение
             wr()
             try:
                 id_vk, name_vk = auto_poster('https://www.youtube.com/watch?v=' + video_id, last_video.author, i[2])
