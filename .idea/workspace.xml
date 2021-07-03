@@ -19,34 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db843e98-67c3-497a-9b00-1b1498add6dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AutoPoster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoPoster.iml" afterDir="false" />
+    <list default="true" id="db843e98-67c3-497a-9b00-1b1498add6dd" name="Default Changelist" comment="Update file system">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Versions/Main/main_v1.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Versions/Send PM/Send_video_in_PM_v1.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Versions/Send PM/Send_video_in_PM_v2.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_channel.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_poster/New_channel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/SIPM_Server_Version_v1.0S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/SIPM_Server_Version_v1.1S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/Send_video_in_PM_v2.0S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/limit.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.1S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.2S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.3S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/SIPM Server/videoPM_v2.4S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/main Server/channels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server Versions/main Server/main_v1.2S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advert_Send.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/advert_Send.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_v1.3S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reserve.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPM_v2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video_bot/conn_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video_bot/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video_bot/limit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video_bot/users.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video_bot/videoPM_v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_poster/AutoPoster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_poster/New_channel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_poster/channels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/advert_Send.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +64,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\intromen\Documents\Python projects\youtubeuploads" />
       <recent name="C:\Users\intromen\Documents\Python projects\youtubeuploads\auto_poster" />
       <recent name="C:\Users\intromen\Documents\Python projects\youtubeuploads\features" />
       <recent name="C:\Users\intromen\Documents\Projects\youtubeuploads" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AutoPoster">
-    <configuration name="1234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AutoPoster (1)">
+    <configuration name="AutoPoster (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPoster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/auto_poster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1234.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/auto_poster/AutoPoster.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +177,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1234" />
+      <item itemvalue="Python.AutoPoster (1)" />
+      <item itemvalue="Python.AutoPoster" />
       <item itemvalue="Python.dropbox test" />
       <item itemvalue="Python.main_v1.3S" />
       <item itemvalue="Python.videoPM_v3" />
-      <item itemvalue="Python.AutoPoster" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AutoPoster (1)" />
         <item itemvalue="Python.AutoPoster" />
         <item itemvalue="Python.main_v1.3S" />
         <item itemvalue="Python.videoPM_v3" />
         <item itemvalue="Python.dropbox test" />
-        <item itemvalue="Python.1234" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +205,21 @@
       <option name="presentableId" value="Default" />
       <updated>1572989659553</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update file system">
+      <created>1624548155318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624548155321</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update file system">
+      <created>1624548213252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624548213252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,24 +238,46 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/youtubeuploads" />
     </ignored-roots>
+    <MESSAGE value="Update file system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update file system" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="291" key="GridCell.Tab.0.bottom" timestamp="1624516718599">
+    <state width="1515" height="291" key="GridCell.Tab.0.bottom" timestamp="1625235701010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="291" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
-    <state width="1515" height="291" key="GridCell.Tab.0.center" timestamp="1624516718599">
+    <state width="1515" height="291" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1625235701010" />
+    <state width="1515" height="291" key="GridCell.Tab.0.center" timestamp="1625235701010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="291" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
-    <state width="1515" height="291" key="GridCell.Tab.0.left" timestamp="1624516718599">
+    <state width="1515" height="291" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1625235701010" />
+    <state width="1515" height="291" key="GridCell.Tab.0.left" timestamp="1625235701010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="291" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
-    <state width="1515" height="291" key="GridCell.Tab.0.right" timestamp="1624516718599">
+    <state width="1515" height="291" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1625235701010" />
+    <state width="1515" height="291" key="GridCell.Tab.0.right" timestamp="1625235701010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="291" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624516718599" />
+    <state width="1515" height="291" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1625235701010" />
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1625171250506">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1625171250506" />
+    <state width="1515" height="277" key="GridCell.Tab.1.center" timestamp="1625171250506">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1625171250506" />
+    <state width="1515" height="277" key="GridCell.Tab.1.left" timestamp="1625171250506">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1625171250506" />
+    <state width="1515" height="277" key="GridCell.Tab.1.right" timestamp="1625171250506">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1625171250506" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1624548217785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1624548217785" />
   </component>
   <component name="masterDetails">
     <states>

@@ -5,7 +5,7 @@ import feedparser
 import youtube_dl
 
 # вк токен
-user_token = "7dfdaca38535fb478ca767980d6987b38a084f3d18e83bad6bb4509f8d9b42612b4493be83b83c45e3c79"
+user_token = "b30732fb32903e93bc8721645cac119be3a7f3d62e399eed73c86d910e33cd98a7ff1b46af442e5f07e74"
 
 # создание словаря
 channels = {}
@@ -70,7 +70,7 @@ def upload(name_vk, path, album_id):
 def auto_poster(url, author, album_id, quiet=True):
     print(url)
     ydl_opts = {
-        'outtmpl': "C:\\Users\\intromen\\Documents\\Projects\\youtubeuploads\\Video_bot\\video\\%(title)s.%(ext)s",
+        'outtmpl': "..\\..\\video\\%(title)s.%(ext)s",
         'quiet': quiet,
         'merge_output_format': 'mp4'}
 
@@ -82,7 +82,7 @@ def auto_poster(url, author, album_id, quiet=True):
 
     # выгрузка в вк
     path = outfile
-    id_vk, name_vk = upload("{" + author + "} " + "".join(list(path)[68:len(path) - 4]), path, album_id)
+    id_vk, name_vk = upload("{" + author + "} " + "".join(list(path)[9:len(path) - 4]), path, album_id)
     os.remove(path)
     return id_vk, name_vk
 
@@ -110,6 +110,6 @@ while True:
                 edit_description(id_vk, name_vk)
                 print("Запостил " + last_video.title)
                 print()
-            except:
-                print("ОШИБКА")
+            except Exception as e:
+                print("ОШИБКА " + str(e))
                 print()
